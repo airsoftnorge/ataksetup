@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+<preferences>
+	<preference version="1" name="cot_streams">
+		<entry key="count" class="class java.lang.Integer">1</entry>
+		<entry key="description0" class="class java.lang.String">Yellow Team - Airsoftnorge.com</entry>
+		<entry key="enabled0" class="class java.lang.Boolean">true</entry>
+		<entry key="connectString0" class="class java.lang.String">yellow.airsoftnorge.com:8087:tcp</entry>
+	</preference>
+	<preference version="1" name="com.atakmap.app_preferences">
+		<entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>
+	</preference>
+</preferences>

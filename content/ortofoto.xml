@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customWmsMapSource>
+    <name>04 Geonorge</name>
+    <version>1.3.0</version>
+    <minZoom>0</minZoom>
+    <maxZoom>22</maxZoom>
+    <tileType>png</tileType>
+    <url>https://wms.geonorge.no/skwms1/wms.nib?</url>
+    <coordinatesystem>EPSG:3857</coordinatesystem>
+    <layers>ortofoto</layers>
+    <styles>default</styles>
+    <north>9188413.199672</north>
+    <east>861396.361017</east>
+    <south>6259013.493147</south>
+    <west>-1331281.51325</west>
+    <backgroundColor>#000000</backgroundColor>
+    <aditionalparameters>&amp;transparent=true</aditionalparameters>
+</customWmsMapSource>

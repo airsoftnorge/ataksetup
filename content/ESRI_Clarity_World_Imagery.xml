@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>02 ESRI SatMap</name>
+    <minZoom>0</minZoom>
+    <maxZoom>19</maxZoom>
+    <tileType>image/jpeg</tileType>
+    <url>https://clarity.maptiles.arcgis.com/arcgis/rest/services/World_Imagery/MapServer/wmts/tile/1.0.0/World_Imagery/default/GoogleMapsCompatible/{$z}/{$y}/{$x}.jpg</url>
+    <tileUpdate>false</tileUpdate>
+    <backgroundColor>#000000</backgroundColor>
+    <ignoreErrors>false</ignoreErrors>
+    <serverParts></serverParts>
+</customMapSource>

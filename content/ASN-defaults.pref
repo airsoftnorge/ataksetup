@@ -1,0 +1,41 @@
+<?xml version='1.0' standalone='yes'?>
+<preferences>
+	<preference version="1" name="com.atakmap.app.civ_preferences">
+		<!-- Antall meter før den går over til KM -->
+		<entry key="rng_meters_display_pref" class="class java.lang.String">2000</entry>
+		<!-- Enhet for hastighet, 0 = imperial 1 = metric -->
+		<entry key="speed_unit_pref" class="class java.lang.String">1</entry>
+		<!-- Best map -->
+		<entry key="lastViewedLayer.name" class="class java.lang.String">01 Kartverket n25-n500</entry>
+		<!-- Bearing units, default men greit å ha med -->
+		<entry key="rab_brg_units_pref" class="class java.lang.String">0</entry>
+		<!-- Default setting, men greit å ha med -->
+		<entry key="rab_color_pref" class="class java.lang.String">red</entry>
+		<!-- Lar deg tilte kartet i 3d modus -->
+		<entry key="status_tilt_enabled" class="class java.lang.Boolean">true</entry>
+		<!-- Sammen med andre settings burde denne gjøre at man får et nyttig kart default -->
+		<entry key="lastViewedLayer.autoselect" class="class java.lang.Boolean">false</entry>
+		<!-- Default høyde over bakken i viewshed -->
+		<entry key="viewshed_prefs_height_above" class="class java.lang.Integer">0</entry>
+		<!-- Metric force -->
+		<entry key="rab_rng_units_pref" class="class java.lang.String">1</entry>
+		<!-- Enabler 3d kart (krever dted2 data) -->
+		<entry key="status_3d_enabled" class="class java.lang.Boolean">true</entry>
+		<!-- Forsøk på å skjule nummer fra telefon -->
+		<entry key="saHasPhoneNumber" class="class java.lang.Boolean">false</entry>
+		<!-- No idea but needed -->
+		<entry key="locationUnitType" class="class java.lang.String">a-f-G-U-C</entry>
+		<!-- Avstand viewshed kalkulerer (krever dted2 data) -->
+		<entry key="viewshed_prefs_radius" class="class java.lang.Integer">1000</entry>
+		<!-- Høyde over havet force -->
+		<entry key="alt_display_pref" class="class java.lang.String">MSL</entry>
+		<!-- MGRS koordinatsystem force -->
+		<entry key="coord_display_pref" class="class java.lang.String">MGRS</entry>
+		<!-- Magnetisk nord force -->
+		<entry key="rab_north_ref_pref" class="class java.lang.String">1</entry>
+		<!-- Enheter for høyder, 0 = imperical 1= metric -->
+		<entry key="alt_unit_pref" class="class java.lang.String">1</entry>
+		<!-- Lite håp om at dette gjør at du får rett kart ved install -->
+		<entry key="lastViewedLayer.active" class="class java.lang.String">Mobile</entry>
+	</preference>
+</preferences>
