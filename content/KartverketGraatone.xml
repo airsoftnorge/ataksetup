@@ -7,7 +7,7 @@
     <tileType>png</tileType>
     <url>http://openwms.statkart.no/skwms1/wms.topo4.graatone?<url>
     <coordinatesystem>EPSG:3857</coordinatesystem>
-    <layers>topo4.graatone_WMS</layers>
+    <layers>topo4_WMS</layers>
     <styles></styles>
     <north>7976800.0</north>
     <east>1145510.0</east>
