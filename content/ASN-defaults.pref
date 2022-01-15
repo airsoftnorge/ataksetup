@@ -6,7 +6,7 @@
 		<!-- Enhet for hastighet, 0 = imperial 1 = metric -->
 		<entry key="speed_unit_pref" class="class java.lang.String">1</entry>
 		<!-- Best map -->
-		<entry key="lastViewedLayer.name" class="class java.lang.String">01 Kartverket n25-n500</entry>
+		<entry key="lastViewedLayer.name" class="class java.lang.String">01 Kartverket Topo N50</entry>
 		<!-- Bearing units, default men greit å ha med -->
 		<entry key="rab_brg_units_pref" class="class java.lang.String">0</entry>
 		<!-- Default setting, men greit å ha med -->
