@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customMapSource>
-    <name>02 ESRI SatMap</name>
+    <name>04 ESRI SatMap</name>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
     <tileType>image/jpeg</tileType>
