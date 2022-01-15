@@ -5,7 +5,7 @@
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
     <tileType>png</tileType>
-    <url>https://openwms.statkart.no/skwms1/wms.topo4.graatone?<url>
+    <url>http://openwms.statkart.no/skwms1/wms.topo4.graatone?<url>
     <coordinatesystem>EPSG:3857</coordinatesystem>
     <layers>topo4.graatone_WMS</layers>
     <styles></styles>
