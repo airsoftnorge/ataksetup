@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customWmsMapSource>
-    <name>04 Geonorge</name>
+    <name>02 Geonorge SAT</name>
     <version>1.3.0</version>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
