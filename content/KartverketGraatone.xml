@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customWmsMapSource>
-    <name>01 Kartverket N50 Graatone</name>
+    <name>01 Kartverket Topo n25-n500 graatone</name>
     <version>1.3.0</version>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
     <tileType>png</tileType>
-    <url>http://openwms.statkart.no/skwms1/wms.topo4.graatone?<url>
+    <url>http://openwms.statkart.no/skwms1/wms.topo4.graatone?</url>
     <coordinatesystem>EPSG:3857</coordinatesystem>
     <layers>topo4_WMS</layers>
     <styles></styles>
