@@ -14,7 +14,7 @@
 		<!-- Lar deg tilte kartet i 3d modus -->
 		<entry key="status_tilt_enabled" class="class java.lang.Boolean">true</entry>
 		<!-- Sammen med andre settings burde denne gjøre at man får et nyttig kart default -->
-		<entry key="lastViewedLayer.autoselect" class="class java.lang.Boolean">false</entry>
+		<entry key="lastViewedLayer.autoselect" class="class java.lang.Boolean">true</entry>
 		<!-- Default høyde over bakken i viewshed -->
 		<entry key="viewshed_prefs_height_above" class="class java.lang.Integer">0</entry>
 		<!-- Metric force -->
