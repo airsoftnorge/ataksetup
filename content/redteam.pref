@@ -3,7 +3,7 @@
 	<preference version="1" name="cot_streams">
 		<entry key="count" class="class java.lang.Integer">1</entry>
 		<entry key="description0" class="class java.lang.String">Red Team - Airsoftnorge.com</entry>
-		<entry key="enabled0" class="class java.lang.Boolean">true</entry>
+		<entry key="enabled0" class="class java.lang.Boolean">false</entry>
 		<entry key="connectString0" class="class java.lang.String">red.airsoftnorge.com:8087:tcp</entry>
 	</preference>
 	<preference version="1" name="com.atakmap.app_preferences">
