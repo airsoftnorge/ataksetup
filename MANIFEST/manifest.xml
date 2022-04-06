@@ -1,6 +1,6 @@
 <MissionPackageManifest version="2">
    <Configuration>
-      <Parameter name="uid" value="ASN"/>
+      <Parameter name="uid" value="ASN-TAK"/>
       <Parameter name="name" value="Airsoftnorge.com standard ATAK oppsett"/>
       <Parameter name="onReceiveDelete" value="false"/>
    </Configuration>
@@ -13,5 +13,7 @@
       <Content ignore="false" zipEntry="content/Google_Hybrid.xml"/>
       <Content ignore="false" zipEntry="content/ASN-defaults.pref"/>
       <Content ignore="false" zipEntry="content/Kartverket.xml"/>
+      <Content ignore="false" zipEntry="content/ASN-TAK.p12"/>
+      <Content ignore="false" zipEntry="content/server.p12"/>
    </Contents>
 </MissionPackageManifest>
