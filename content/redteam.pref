@@ -1,12 +1,16 @@
-<?xml version='1.0' standalone='yes'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <preferences>
-	<preference version="1" name="cot_streams">
-		<entry key="count" class="class java.lang.Integer">1</entry>
-		<entry key="description0" class="class java.lang.String">Red Team - Airsoftnorge.com</entry>
-		<entry key="enabled0" class="class java.lang.Boolean">false</entry>
-		<entry key="connectString0" class="class java.lang.String">red.airsoftnorge.com:8087:tcp</entry>
-	</preference>
-	<preference version="1" name="com.atakmap.app_preferences">
-		<entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>
-	</preference>
+   <preference version="1" name="cot_streams">
+      <entry key="count" class="class java.lang.Integer">1</entry>
+      <entry key="description0" class="class java.lang.String">Red Team - Airsoftnorge.com</entry>
+      <entry key="enabled0" class="class java.lang.Boolean">false</entry>
+      <entry key="connectString0" class="class java.lang.String">red.airsoftnorge.com:8087:tcp</entry>
+   </preference>
+   <preference version="1" name="com.atakmap.app_preferences">
+      <entry key="displayServerConnectionWidget" class="class java.lang.Boolean">true</entry>
+      <entry key="caLocation" class="class java.lang.String">/storage/emulated/0/atak/cert/server.p12</entry>
+      <entry key="caPassword" class="class java.lang.String">atakatak</entry>
+      <entry key="clientPassword" class="class java.lang.String">atakatak</entry>
+      <entry key="certificateLocation" class="class java.lang.String">/storage/emulated/0/atak/cert/ASN-TAK.p12</entry>
+   </preference>
 </preferences>
