@@ -9,7 +9,7 @@
       <Content ignore="false" zipEntry="content/yellowteam.pref"/>
       <Content ignore="false" zipEntry="content/blueteam.pref"/>
       <Content ignore="false" zipEntry="content/redteam.pref"/>
-      <Content ignore="false" zipEntry="content/ESRI_Clarity_world_beta"/>
+      <Content ignore="false" zipEntry="content/ESRI_Clarity_world_beta.xml"/>
       <Content ignore="false" zipEntry="content/opentopo.xml"/>
       <Content ignore="false" zipEntry="content/ESRI_Clarity_World_Imagery.xml"/>
       <Content ignore="false" zipEntry="content/Google_Hybrid.xml"/>
