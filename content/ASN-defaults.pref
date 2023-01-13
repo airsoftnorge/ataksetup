@@ -1,10 +1,10 @@
-<?xml version='1.0' standalone='yes'?>
+﻿<?xml version='1.0' standalone='yes'?>
 <preferences>
 	<preference version="1" name="com.atakmap.app.civ_preferences">
 		<!-- Clear content -->
 		<entry key="clearingContent" class="class java.lang.Boolean">true</entry>
 		<!-- Default kart  -->
-		<entry key="MobileLayerSelectionAdapter.selected" class="class java.lang.String">01 Kartverket Topo N50</entry>
+		<entry key="MobileLayerSelectionAdapter.selected" class="class java.lang.String">00 UT.no Topographical</entry>
 		<!-- Antall meter før den går over til KM -->
 		<entry key="rng_meters_display_pref" class="class java.lang.String">2000</entry>
 		<!-- Enhet for hastighet, 0 = imperial 1 = metric -->
