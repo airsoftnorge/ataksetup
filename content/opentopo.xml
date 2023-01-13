@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <customMapSource>
-    <name>01 Open Topo Map</name>
+    <name>01 Open Topo</name>
     <minZoom>1</minZoom>
     <maxZoom>17</maxZoom>
     <tileType>PNG</tileType>
