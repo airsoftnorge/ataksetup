@@ -17,5 +17,6 @@
       <Content ignore="false" zipEntry="content/Kartverket.xml"/>
       <Content ignore="false" zipEntry="content/ASN-TAK.p12"/>
       <Content ignore="false" zipEntry="content/server.p12"/>
+      <Content ignore="false" zipEntry="content/ut.xml"/>
    </Contents>
 </MissionPackageManifest>
