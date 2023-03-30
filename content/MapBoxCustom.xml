@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <customMapSource>
-  <name>09 ASN Custom mapbox</name>
+  <name>04 ASN Custom mapbox</name>
   <minZoom>0</minZoom>
   <maxZoom>25</maxZoom>
   <tileType>image/png</tileType>

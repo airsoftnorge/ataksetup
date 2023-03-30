@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customMapSource>
-    <name>03 ESRI World Imagery (Clarity) Beta</name>
+    <name>09 ESRI World Imagery (Clarity) Beta</name>
     <minZoom>1</minZoom>
     <maxZoom>20</maxZoom>
     <tileType>jpg</tileType>
