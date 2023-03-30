@@ -18,5 +18,8 @@
       <Content ignore="false" zipEntry="content/ASN-TAK.p12"/>
       <Content ignore="false" zipEntry="content/server.p12"/>
       <Content ignore="false" zipEntry="content/UT.xml"/>
+      <Content ignore="false" zipEntry="content/Eniro.xml"/>
+      <Content ignore="false" zipEntry="content/MapBoxCustom.xml"/>
+      <Content ignore="false" zipEntry="content/UTgraatone.xml"/>
    </Contents>
 </MissionPackageManifest>

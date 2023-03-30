@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customMapSource>
+  <name>09 ASN Custom mapbox</name>
+  <minZoom>0</minZoom>
+  <maxZoom>25</maxZoom>
+  <tileType>image/png</tileType>
+  <url>https://api.mapbox.com/styles/v1/fakeuser1338/clfba0crc006b01pjmazcp2zm/tiles/{$z}/{$x}/{$y}?access_token=pk.eyJ1IjoiZmFrZXVzZXIxMzM4IiwiYSI6ImNsZmI5ajB6YjBiNGEzb212NDc5aGh6OTgifQ.Qgif_BIXgSdbc5RqDaXlJg</url>
+  <tileUpdate>false</tileUpdate>
+  <backgroundColor>#000000</backgroundColor>
+  <ignoreErrors>false</ignoreErrors>
+  <serverParts />
+</customMapSource>
