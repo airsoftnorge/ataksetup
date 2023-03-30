@@ -21,5 +21,6 @@
       <Content ignore="false" zipEntry="content/Eniro.xml"/>
       <Content ignore="false" zipEntry="content/MapBoxCustom.xml"/>
       <Content ignore="false" zipEntry="content/UTgraatone.xml"/>
+      <Content ignore="false" zipEntry="content/UTpapermap.xml"/>
    </Contents>
 </MissionPackageManifest>
